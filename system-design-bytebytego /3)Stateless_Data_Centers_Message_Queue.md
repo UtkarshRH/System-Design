@@ -18,7 +18,7 @@ To solve this, we use a stateless architecture where:
 - Any server can handle any request
 - No dependency on a specific server
 
-This makes the system more scalable, fault-tolerant, and easier to maintain. :contentReference[oaicite:0]{index=0}
+This makes the system more scalable, fault-tolerant, and easier to maintain.
 
 ---
 
@@ -58,7 +58,7 @@ This ensures:
 However, this introduces challenges like:
 - Data synchronization across regions
 - Traffic routing
-- Deployment consistency :contentReference[oaicite:1]{index=1}
+- Deployment consistency.
 
 ---
 
@@ -94,8 +94,7 @@ Example:
 Benefits:
 - Improved scalability
 - Fault tolerance
-- Better system decoupling :contentReference[oaicite:2]{index=2}
-
+- Better system decoupling.
 ---
 
 ## 🧩 Diagram
